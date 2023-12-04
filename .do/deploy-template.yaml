@@ -1,0 +1,6 @@
+spec:
+  name: app-nodejs18
+  services:
+  - name: server
+    features:
+      - buildpack-stack=ubuntu-22
