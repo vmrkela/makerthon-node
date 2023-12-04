@@ -8,6 +8,9 @@
   "scripts": {
     "start": "nodemon server"
   },
+  "engines": {
+    "node": "21.x"
+  }
   "nodemonConfig": {
     "ext": "html,css,js,json,hbs,mustache",
     "ignore": [
