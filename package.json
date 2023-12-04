@@ -6,7 +6,8 @@
   "main": "server.js",
   "private": true,
   "scripts": {
-    "start": "node server.js"
+    "start": "node ./bin/www"
+    //"start": "nodemon server"
   },
   "engines": {
     "node": "21.x"
