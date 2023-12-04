@@ -70,4 +70,4 @@ function updateOrAddObject(array, object) {
 
 app.listen(PORT, HOST);
 
-
+module.exports = app;
