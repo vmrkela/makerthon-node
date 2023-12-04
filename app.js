@@ -53,7 +53,7 @@ app.post('/data', (req, res) => {
 app.get('/reset', (req, res) => {  
   data = [];
 
-  res.send('Data Received: ' + JSON.stringify(data));
+  res.send('Polje je resetirano!');
 });
 
 function updateOrAddObject(array, object) {
