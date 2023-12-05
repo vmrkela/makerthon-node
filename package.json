@@ -1,8 +1,8 @@
 {
-  "name": "app",
+  "name": "Makerthon 2023 Arduino NodeJS",
   "version": "1.0.0",
-  "description": "Node.js on Docker",
-  "author": "First Last <first.last@example.com>",
+  "description": "Makerthon 2023 Arduino NodeJS Workshop",
+  "author": "Vladimir Mrkela <vladimir@northwest.agency>",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
