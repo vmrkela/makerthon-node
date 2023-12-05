@@ -27,6 +27,12 @@ h5{
     margin-bottom: 0;
 }
 
+.param-id{
+    border-bottom: var(--bs-card-border-width) solid var(--bs-card-border-color);
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
 .loader {
     border: 8px solid #f3f3f3; /* Light grey */
     border-top: 8px solid #000000; /* Blue */
