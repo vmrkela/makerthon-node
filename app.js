@@ -12,7 +12,7 @@ const expressNunjucks = require('express-nunjucks').default;
 
 // Constants
 const PORT = 3000;
-const HOST = '0.0.0.0';
+const HOST = '161.35.221.182';
 
 // App
 const app = express();
