@@ -66,7 +66,7 @@ app.get('/data', (req, res) => {
 
   console.log(data);
 
-  res.send('Data Received: ' + JSON.stringify(data));
+  res.json("{'success': 'true'}");
 });
 
 // endpoint for data reset
