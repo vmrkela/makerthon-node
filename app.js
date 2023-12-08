@@ -11,7 +11,7 @@ const querystring = require('querystring');
 const expressNunjucks = require('express-nunjucks').default;
 
 // Constants
-const PORT = 3000;
+const PORT = 3100;
 const HOST = '161.35.221.182';
 
 // App
